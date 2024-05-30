@@ -1,5 +1,5 @@
 body{
-    background-color: #C6AA3C;
+    background-color: #73e2fd;
 }
 h1, h2{
     font-size: 60px;
@@ -10,8 +10,8 @@ h1, h2{
 button{
     display: block;
     margin: auto;
-    background-color: #909090;
-    color: cornsilk;
+    background-color: #fbfafb;
+    color: rgb(23, 115, 157);
     font-size: 16px;
     padding: 0.5em 1em 0.5em 1em;
 }
@@ -19,7 +19,7 @@ button{
     opacity: 0.8;                     
 }
 .button-flat:active {
-    background: #C6AA3C;
+    background: #73e2fd;
 }
 
 .container{
